@@ -1,9 +1,9 @@
 ﻿using System.Reflection;
 
-[assembly: AssemblyTitle("ExampleMod")]
-[assembly: AssemblyProduct("ExampleMod")]
-[assembly: AssemblyDescription("Description of your mod")]
-[assembly: AssemblyCompany("ExampleAuthor")]
-[assembly: AssemblyCopyright("Copyright © 2025 ExampleAuthor")]
-[assembly: AssemblyVersion(ExampleMod.ExampleMod.VERSION_CONSTANT)]
-[assembly: AssemblyFileVersion(ExampleMod.ExampleMod.VERSION_CONSTANT)]
+[assembly: AssemblyTitle("shtesting")]
+[assembly: AssemblyProduct("shtesting")]
+[assembly: AssemblyDescription("a mod for testing out spherical harmonics types")]
+[assembly: AssemblyCompany("Redd")]
+[assembly: AssemblyCopyright("cc redd")]
+[assembly: AssemblyVersion(ShtestingMod.ExampleMod.VERSION_CONSTANT)]
+[assembly: AssemblyFileVersion(ShtestingMod.ExampleMod.VERSION_CONSTANT)]

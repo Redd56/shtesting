@@ -1,6 +1,9 @@
+using System;
+
 using FrooxEngine;
 using HarmonyLib;
 using ResoniteModLoader;
+using Elements.Core;
 
 namespace ShtestingMod;
 //More info on creating mods can be found https://github.com/resonite-modding-group/ResoniteModLoader/wiki/Creating-Mods
